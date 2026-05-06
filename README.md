@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% 親カテゴリ
     Root("<b>【親】 観光スポット名</b><br/>（記事のメインテーマ）")
@@ -42,3 +43,4 @@ graph TD
     style Sub1 fill:#e1f5fe,stroke:#01579b
     style Sub2 fill:#fff9c4,stroke:#fbc02d
     style Sub3 fill:#e8f5e9,stroke:#2e7d32
+```
